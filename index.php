@@ -6,6 +6,8 @@
     <title>Proyecto 2º Evaluacion</title>
 </head>
 <body>
-    
+    <?php
+    echo "hola";
+    ?>
 </body>
-</html>m
+</html>
