@@ -8,6 +8,13 @@
 <body>
     <?php
     echo "hola";
+    $a= 1;
+
+    if ($a=1){
+        echo "adios";
+    }
+
+
     ?>
 </body>
 </html>
